@@ -1,0 +1,8 @@
+# .gitignore
+
+# Node
+node_modules/
+.env
+dist/
+logs/
+npm-debug.log*
